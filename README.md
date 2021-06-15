@@ -1,6 +1,6 @@
 # Yoga Login Interface
 
-<img src="./assets/snapshot.png" alt="interface snapshot">
+<img src="./assets/snapshot.png" alt="interface snapshot" height="400px">
 
 > Interaface de login feita com com HTML e CSS.
 
